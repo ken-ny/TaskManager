@@ -1,0 +1,9 @@
+com/mimacom/tasks/TaskNotFoundException.class
+com/mimacom/tasks/TasksController.class
+com/mimacom/tasks/entities/Task.class
+com/mimacom/tasks/TaskModelAssembler.class
+com/mimacom/tasks/TasksRepository.class
+com/mimacom/tasks/LoadDatabase.class
+com/mimacom/tasks/TaskNotFoundAdvice.class
+com/mimacom/tasks/commons/Errors.class
+com/mimacom/tasks/TasksApplication.class

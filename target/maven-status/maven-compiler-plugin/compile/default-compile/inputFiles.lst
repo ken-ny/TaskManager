@@ -1,0 +1,9 @@
+/media/jaime/almacen/wrkIntellij/tasks/src/main/java/com/mimacom/tasks/TaskNotFoundException.java
+/media/jaime/almacen/wrkIntellij/tasks/src/main/java/com/mimacom/tasks/TasksApplication.java
+/media/jaime/almacen/wrkIntellij/tasks/src/main/java/com/mimacom/tasks/TasksController.java
+/media/jaime/almacen/wrkIntellij/tasks/src/main/java/com/mimacom/tasks/TaskModelAssembler.java
+/media/jaime/almacen/wrkIntellij/tasks/src/main/java/com/mimacom/tasks/TaskNotFoundAdvice.java
+/media/jaime/almacen/wrkIntellij/tasks/src/main/java/com/mimacom/tasks/commons/Errors.java
+/media/jaime/almacen/wrkIntellij/tasks/src/main/java/com/mimacom/tasks/TasksRepository.java
+/media/jaime/almacen/wrkIntellij/tasks/src/main/java/com/mimacom/tasks/entities/Task.java
+/media/jaime/almacen/wrkIntellij/tasks/src/main/java/com/mimacom/tasks/LoadDatabase.java
